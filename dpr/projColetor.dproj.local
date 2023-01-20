@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/10 14:37:49.000.675,=C:\Users\Igor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/10 14:39:42.000.165,C:\Users\Igor\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Sistemas\SupraColetor\uniFrmColetor.pas</Transaction>
+    <Transaction>2023/01/10 14:39:42.000.165,C:\Users\Igor\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Sistemas\SupraColetor\uniFrmColetor.dfm</Transaction>
+    <Transaction>2023/01/10 14:39:59.000.302,C:\Users\Igor\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Sistemas\SupraColetor\dpr\projColetor.dproj</Transaction>
+    <Transaction>2023/01/10 15:21:57.000.349,=C:\Sistemas\SupraColetor\dpr\Unit1.pas</Transaction>
+    <Transaction>2023/01/10 15:22:29.000.657,C:\Sistemas\SupraColetor\dpr\Unit1.dfm=C:\Sistemas\SupraColetor\dm\uniDmConexao.dfm</Transaction>
+    <Transaction>2023/01/10 15:22:29.000.657,C:\Sistemas\SupraColetor\dpr\Unit1.pas=C:\Sistemas\SupraColetor\dm\uniDmConexao.pas</Transaction>
+    <Transaction>2023/01/10 21:27:52.000.130,=C:\Sistemas\SupraColetor\pas\uniFrmCadastrarProdutos.pas</Transaction>
+    <Transaction>2023/01/10 22:15:52.000.121,=C:\Sistemas\SupraColetor\dpr\Unit1.pas</Transaction>
+    <Transaction>2023/01/10 22:17:45.000.121,C:\Sistemas\SupraColetor\pas\uniFrmCadastrarControle.pas=C:\Sistemas\SupraColetor\dpr\Unit1.pas</Transaction>
+    <Transaction>2023/01/10 22:17:45.000.121,C:\Sistemas\SupraColetor\pas\uniFrmCadastrarControle.dfm=C:\Sistemas\SupraColetor\dpr\Unit1.dfm</Transaction>
+    <Transaction>2023/01/11 04:15:03.000.347,=C:\Sistemas\SupraColetor\dpr\Unit1.pas</Transaction>
+    <Transaction>2023/01/11 04:15:31.000.923,C:\Sistemas\SupraColetor\dpr\Unit1.pas=C:\Sistemas\SupraColetor\pas\uniFrmLancamentoContagem.pas</Transaction>
+    <Transaction>2023/01/11 04:15:31.000.923,C:\Sistemas\SupraColetor\dpr\Unit1.dfm=C:\Sistemas\SupraColetor\pas\uniFrmLancamentoContagem.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
